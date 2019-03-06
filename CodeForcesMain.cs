@@ -7,16 +7,10 @@ namespace CodeForces
     {
         public static void Main(string[] args)
         {
-            int n;
-            n = int.Parse(Console.ReadLine());
-            List<String> SuPr = new List<String>(2 * n - 2);
-
-            for (int i = 0; i < 2 * n - 2; i++)
-            {
-                SuPr.Add(Console.ReadLine());
-            }
-
-            Console.WriteLine("end");
+            uint x = 5, y = 3;
+            string z = "lalal";
+            ex1.Set(ref x,ref y);
+            ex2.Set(ref z, ref y);
         }
     }
 }

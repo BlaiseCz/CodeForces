@@ -1,7 +1,7 @@
 ﻿using System;
 namespace CodeForces
 {
-    public class ex2    //Console.WriteLine("B. Decoding");
+    public static class ex2    //Console.WriteLine("B. Decoding");
     {
         public static void EX2()
         {

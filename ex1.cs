@@ -2,7 +2,7 @@
 
 namespace CodeForces
 {
-  public class ex1  //Console.WriteLine("A. Wrong Subtraction");
+  public static class ex1  //Console.WriteLine("A. Wrong Subtraction");
     {
         public static void Set(ref uint n, ref uint k)
         {
